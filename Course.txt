@@ -1,0 +1,6 @@
+6 CS1004|OOP|Ms.Hina|4
+CS1005|DS|Ms.Uzma|3
+EE2003|COAL|Ms.Aleena|4
+MT1004|LA|Mr.Nasir|3
+SS2040|Mass_Com|Ms.Sapna|3
+SS0410|IR|Mr.Habeeb|3
